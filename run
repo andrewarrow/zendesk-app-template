@@ -1,0 +1,2 @@
+npm run build 
+cp dist/assets/compiled-BpWSa-y3.js assets

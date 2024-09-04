@@ -1,0 +1,4 @@
+mv node_modules ..
+zcli apps:package 
+mv ../node_modules .
+
